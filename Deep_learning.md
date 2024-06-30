@@ -11,6 +11,8 @@
 7. [Advanced Training Techniques](#advanced-training-techniques)
 best-practices-and-tips)
 
+![Alt text](Deep Learning.svg)
+
 ## Foundations of Deep Learning
 
 ### The Neural Network as a Universal Function Approximator
